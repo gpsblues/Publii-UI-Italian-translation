@@ -21,3 +21,9 @@ N.B. Publii supporta i pacchetti di traduzione dalla versione 0.39.
 Il pacchetto di traduzione agisce solo sull'interfaccia principale di Publii e pertanto alcune parti del CMS si presenteranno ancora in lingua inglese, ad esempio:
 - Temi e Plugin sono distribuiti come pacchetti a parte e normalmente li troverai in inglese;
 - La versione di Publii potrebbe essere più aggiornata rispetto ai file del pacchetto. Dalla versione 0.46.2. le voci non tradotte rimarranno in lingua inglese, prima della versione 0.46.2 appariranno delle stringhe di testo inglesi.
+
+## Posso utilizzare i file scaricati da questo repository?
+Sì, ma trattandosi di una versione di lavoro potresti trovare traduzioni incomplete o in fase beta.
+L'utilizzo del [repository ufficiale](https://github.com/GetPublii/Publii-ui-locales) è preferibile.
+
+Buon design!
