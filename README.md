@@ -23,7 +23,7 @@ Il pacchetto di traduzione agisce solo sull'interfaccia principale di Publii e p
 - La versione di Publii potrebbe essere più aggiornata rispetto ai file del pacchetto. Dalla versione 0.46.2. le voci non tradotte rimarranno in lingua inglese, fino alla versione 0.46.1 appariranno delle etichette di testo inglesi non facilmente comprensibili.
 
 ## Posso utilizzare i file scaricati da questo repository?
-Sì, ma trattandosi di una versione di lavoro potresti trovare traduzioni incomplete o in fase beta.
+Sì, puoi utilizzare la cartella `it` di questo repository (trascinandola sulle lingue di Publii anche non zippata), ma trattandosi di una versione di lavoro potresti trovare traduzioni incomplete o in fase beta.
 L'utilizzo del [repository ufficiale](https://github.com/GetPublii/Publii-ui-locales) è quindi preferibile.
 
 Buon design!
