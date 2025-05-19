@@ -26,4 +26,12 @@ Il pacchetto di traduzione agisce solo sull'interfaccia principale di Publii e p
 Sì, ma trattandosi di una versione di lavoro potresti trovare traduzioni incomplete o in fase beta.
 L'utilizzo del [repository ufficiale](https://github.com/GetPublii/Publii-ui-locales) è quindi preferibile.
 
+## Voglio scaricare proprio questa versione, come faccio?
+L'installazione della localizzazione italiana da questo repository è molto semplice, ma richiede un passaggio in più rispetto alla procedura precedente:
+- scarica l'intero repository in file zip [Code / Download ZIP](https://github.com/gpsblues/Publii-UI-Italian-translation/archive/refs/heads/main.zip);
+- scompatta il file .zip scaricato;
+- all'interno della struttura troverai la cartella `it`;
+- trascina questa cartella nella sezione lingue di Publii `Publii / Languages` (non importa che la cartella `it` sia zippata);
+- scegli la lingua italiana cliccando sulla bandiera. 
+
 Buon design!
