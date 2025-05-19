@@ -31,6 +31,7 @@
         "themeDoesNotSupportFeaturedImagesForAuthors": "Il tema non supporta immagini di copertina per gli autori",
         "whenYouUseGravatarYourSiteVisitorsWillQueryAThirdPartyServer": "Quando utilizzi il servizio Gravatar, tieni presente che i visitatori del tuo sito devono interrogare un server di terze parti per caricare l'immagine del tuo avatar.",
         "toUseThisOptionEnableIndexingAuthorPages": "Per utilizzare questa opzione devi abilitare l'indicizzazione delle pagine dell'autore nelle impostazioni SEO.",
+        "url": "URL",
         "useGravatarMessage": "Utilizza <a href=\"https://gravatar.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Gravatar </a> come avatar per la pagina autore",
         "useGravatarServiceMessage": "Per utilizzare Gravatar, fornisci prima l'e-mail dell'autore.",
         "website": "Sito web"
@@ -467,6 +468,7 @@
         "cleanUrlsDisabled":"Abilita \"Usa Pretty URL\" nelle impostazioni per sbloccare l'opzione \"Modifica gerarchia\". Questo ti consentirà di gestire facilmente le relazioni padre-figlio delle pagine.",
         "editHierarchy":"Modifica gerarchia",
         "configureThemeBeforeGeneratingPreview":"Per generare un'anteprima di questa pagina è prima necessario selezionare e configurare un tema per il sito web.",
+        "convertToPost": "Converti in post",
         "currentDefaultTemplate":"Modello predefinito corrente",
         "customPageTypes":"Tipi di pagine personalizzate",
         "drafts":"Bozza",
@@ -538,6 +540,7 @@
         "changePostDate": "Modifica la data del post",
         "characters": "Caratteri",
         "configureThemeBeforeGeneratingPreview": "Per generare un'anteprima di questo post è prima necessario selezionare e configurare un tema per il sito web.",
+        "convertToPage": "Converti in pagina",
         "currentDefaultTemplate": "Tema predefinito corrente",
         "customPostTypes": "Tipi di post personalizzati",
         "drafts": "Bozza",
@@ -808,6 +811,7 @@
         "hideCustomExcerptsOnPagePagesInfo":"Se questa opzione è abilitata, le pagine non visualizzeranno il testo che è posizionato sopra l'elemento \"Leggi tutto\" nell'editor.",
         "hideCustomExcerptsOnPostPages": "Nascondi gli estratti personalizzati dei post",
         "hideCustomExcerptsOnPostPagesInfo": "Se questa opzione è abilitata i post non visualizzeranno il testo che è posizionato sopra l'elemento \"Leggi tutto\" nell'editor.",
+        "homepage": "Homepage",
         "homepageNoIndexPagination": "Se questa opzione è abilitata eventuali file di paginazione della home verranno esclusi dalla mappa del sito e verranno aggiunti i metatag robots <strong>noindex, follow</strong>.",
         "homepagePagination": "Paginazione della home page",
         "howToPrepareYourThemeForGDPRInfo": "L'abilitazione del popup dei cookie GDPR potrebbe richiedere alcune modifiche aggiuntive al tema, soprattutto se si utilizzano script di terze parti. <a href=\"https://getpublii.com/dev/prepare-theme-gdpr-compliant/\" target=\"_blank\" rel=\"noopener noreferrer\">Leggi come preparare il tuo tema per il GDPR </a>.",
@@ -862,7 +866,6 @@
             "titleDESC": "Titolo (decrescente)"
         },
         "pageAsFrontpage":"Seleziona pagina",
-        "pageName": "Nome della pagina",
         "pageTitle": "Titolo",
         "pageTitleVariables": "Nel metatag puoi utilizzare le seguenti variabili: %pagetitle, %sitename, %authorname",
         "paginationPhrase": "Prefisso paginazione:",
@@ -979,6 +982,7 @@
         "versionParameterInfo": "Aggiunge un parametro di versione negli URL CSS/JS per saltare la cache del browser. Questa opzione può aumentare il numero di file che saranno sincronizzati durante la pubblicazione del sito.",
         "vimeoNoTrack": "Abilita la modalità \"Do Not Track\" per i video Vimeo",
         "webpLossless": "Abilita la compressione senza perdita di dati per le immagini WebP reattive",
+        "websiteName": "Nome del sito",
         "websiteSpeed": "Velocità del sito",
         "whatsApp": "WhatsApp",
         "youMustSelectFrontpage":"È necessario specificare la pagina utilizzata come homepage",
@@ -1015,6 +1019,7 @@
             "yesPleaseOverride": "Sì, sovrascrivi."
         },
         "selectedBackupFile": "File di backup selezionato",
+        "siteDescription": "Descrizione del sito (per uso interno)",
         "siteLoadingErrorMsg": "Si è verificato un errore durante il caricamento del sito web selezionato. Si prega di verificare i file del sito web e riprovare.",
         "siteName": "Nome del sito:",
         "siteSettingsSaveSuccessMsg": "Le impostazioni del sito sono state salvate correttamente.",
@@ -1249,7 +1254,8 @@
         "tagStatusChangeSuccessMessage": "Lo stato dei tag selezionati è stato modificato",
         "tagWillNotAppearInGeneratedTagLists": "Il Tag non apparirà in nessun elenco di Tag generato come post o pagine di Tag.",
         "thisTagIsHidden": "Questo tag è nascosto",
-        "toUseThisOptionEnableIndexingTagPages": "Per utilizzare questa opzione, abilita prima l'indicizzazione delle pagine dei tag nelle impostazioni SEO."
+        "toUseThisOptionEnableIndexingTagPages": "Per utilizzare questa opzione, abilita prima l'indicizzazione delle pagine dei tag nelle impostazioni SEO.",
+        "url": "URL"
     },
     "theme": {
         "addThemeSuccessMessage": "Il tema è stato aggiunto con successo.",
