@@ -3,6 +3,8 @@ Questo repository contiene la versione di lavoro della traduzione italiana del C
 
 ![Screenshot](https://raw.githubusercontent.com/gpsblues/Publii-UI-Italian-translation/refs/heads/main/.assets/screen.png)
 
+Se ti piace usare la traduzione italiana prendi in considerazione di attribuire una ⭐ su GitHub: è il solo modo per farmi capire che apprezzi questo lavoro. Grazie!
+
 ## Contribuisci alla traduzione
 Se individui degli errori o se ritieni che alcune frasi possano essere migliorate non esitare a contattarmi.
 
